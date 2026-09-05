@@ -90,6 +90,7 @@
 
 *Tools that generate unit tests or end-to-end test suites automatically from existing code or user flows, and track how much of the codebase they actually cover.*
 
+- **[Agent QA](https://github.com/vostride/agent-qa)** — Natural-language web/mobile tests via CLI and MCP; source-available (FSL-1.1-ALv2), no software fee for permitted use, provider costs separate. `Free`
 - **[Diffblue Cover](https://www.diffblue.com/)** — AI agent that writes and maintains Java and Kotlin unit tests automatically, with a free Community Edition for individual developers. `Freemium`
 - **[Mabl](https://www.mabl.com/)** — AI-native test automation platform that generates and self-heals end-to-end UI tests, sold as a managed service with custom pricing. `Paid (enterprise/custom pricing)`
 - **[Qodo](https://www.qodo.ai/pricing/)** — AI platform combining automatic unit test generation, PR code review, and CI test-coverage tracking across a codebase. `Freemium`
@@ -130,7 +131,7 @@
 Eight repos live so far — more industries are launching soon under [@open-ai-directory](https://github.com/open-ai-directory):
 
 | | | |
-|---|---|---|
+| --- | --- | --- |
 | [🏥 Healthcare](https://github.com/open-ai-directory/best-ai-tools-for-healthcare) | [⚖️ Lawyers](https://github.com/open-ai-directory/best-ai-tools-for-lawyers) | [📈 Marketing](https://github.com/open-ai-directory/best-ai-tools-for-marketing) |
 | [💰 Finance](https://github.com/open-ai-directory/best-ai-tools-for-finance) | [🎓 Teachers](https://github.com/open-ai-directory/best-ai-tools-for-teachers) | [👥 HR](https://github.com/open-ai-directory/best-ai-tools-for-hr) |
 | [🎨 Designers](https://github.com/open-ai-directory/best-ai-tools-for-designers) | | |
