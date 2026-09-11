@@ -68,6 +68,7 @@
 - **[Devin](https://cognition.ai/devin)** — Cognition's autonomous software engineer that plans, writes, tests, and opens pull requests for assigned tasks with minimal supervision. `Freemium`
 - **[Google Jules](https://jules.google/)** — Google's asynchronous coding agent that clones a repo into a sandboxed cloud VM, implements a task, and opens a pull request for review. `Freemium`
 - **[OpenAI Codex](https://openai.com/codex/)** — OpenAI's cloud-based autonomous coding agent that runs multi-step engineering tasks in isolated sandboxes from the CLI, IDE, or ChatGPT. `Freemium`
+- **[YYLO](https://github.com/yylo-dev/yylo)** — Command-line orchestrator for coding agents: Kanban task lifecycle in git worktrees, typed validation, and a merge queue that reviews and merges the result. `Free`
 
 ## AI Tools for Code Review & Pull Request Automation
 
