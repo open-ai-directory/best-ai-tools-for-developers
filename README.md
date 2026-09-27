@@ -72,7 +72,7 @@
 ## AI Tools for Code Review & Pull Request Automation
 
 *AI reviewers that read a diff against the whole codebase and leave inline comments on bugs, security issues, and style before a human ever looks.*
-
+- [**CodeGuard AI**](https://javacoder716.gumroad.com/l/codeguard-ai) — Self-hosted AI code review for GitHub Pull Requests, detecting bugs, security issues, performance problems, and code-quality risks. `Paid`
 - **[CodeRabbit](https://www.coderabbit.ai/pricing)** — AI code review tool that leaves context-aware inline PR comments, one-click fix suggestions, and a chat interface for discussing findings. `Freemium`
 - **[Greptile](https://www.greptile.com/)** — AI code review agent that indexes an entire repository into a code graph to trace dependencies and flag bugs across files in a pull request. `Paid`
 - **[Korbit AI](https://www.korbit.ai/pricing.html)** — AI code review bot that leaves unlimited inline PR comments on bugs, security issues, and style, free for open-source repositories. `Freemium`
