@@ -68,6 +68,7 @@
 - **[Devin](https://cognition.ai/devin)** — Cognition's autonomous software engineer that plans, writes, tests, and opens pull requests for assigned tasks with minimal supervision. `Freemium`
 - **[Google Jules](https://jules.google/)** — Google's asynchronous coding agent that clones a repo into a sandboxed cloud VM, implements a task, and opens a pull request for review. `Freemium`
 - **[OpenAI Codex](https://openai.com/codex/)** — OpenAI's cloud-based autonomous coding agent that runs multi-step engineering tasks in isolated sandboxes from the CLI, IDE, or ChatGPT. `Freemium`
+- **[Orbi](https://orbi.build/?ref=oss-best-ai-tools-for-developers)** — GitHub App that picks up Issues labeled ai-ready, codes in a hosted sandbox, has a separate review session check the PR, then merges and tags a release. `Freemium`
 
 ## AI Tools for Code Review & Pull Request Automation
 
