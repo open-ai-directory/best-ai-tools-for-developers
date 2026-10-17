@@ -3,8 +3,8 @@
 ## 2026-10-17
 
 - Redesigned entries as icon tables with multi-badge tags (pricing plus traits like `Open Source`, `Self-Hosted`, `Free for OSS`) instead of plain bullet lists.
-- Added 4 new categories — AI Tools for Debugging & Error Monitoring, AI Tools for API Design & Testing, AI Tools for DevOps, Infrastructure & Deployment, and AI Tools for Commit Messages & Git Workflows — adding 12 tools: Datadog, Rollbar, Sentry, Apidog, Postman, Stainless, Harness, Komodor, Pulumi, aicommits, GitButler, OpenCommit.
-- Added a 🤝/🧠/🤖/🔍/🛡️/🧪/📚/🗄️/🐞/🔌/⚙️/✍️ emoji to every category heading for scannability.
+- Added 4 new categories — Debugging & Error Monitoring, API Design & Testing, DevOps, Infrastructure & Deployment, and Commit Messages & Git Workflows — adding 12 tools: Datadog, Rollbar, Sentry, Apidog, Postman, Stainless, Harness, Komodor, Pulumi, aicommits, GitButler, OpenCommit.
+- Added a 🤝/🧠/🤖/🔍/🛡️/🧪/📚/🗄️/🐞/🔌/⚙️/✍️ emoji to every category heading, and dropped the repeated "AI Tools for" prefix from each one — the page title already says this is an AI tools directory, so every heading read more naturally without it.
 - Now 44 tools across 12 categories.
 
 ## 2026-08-22

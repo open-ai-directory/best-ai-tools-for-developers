@@ -17,18 +17,18 @@
 ## Table of contents
 
 - [How tools get listed](#how-tools-get-listed)
-- [🤝 AI Tools for Code Completion & Pair Programming](#-ai-tools-for-code-completion--pair-programming)
-- [🧠 AI Tools for AI-Native Code Editors & Agentic IDEs](#-ai-tools-for-ai-native-code-editors--agentic-ides)
-- [🤖 AI Tools for Autonomous Coding Agents](#-ai-tools-for-autonomous-coding-agents)
-- [🔍 AI Tools for Code Review & Pull Request Automation](#-ai-tools-for-code-review--pull-request-automation)
-- [🛡️ AI Tools for Static Analysis, Security & Code Quality](#️-ai-tools-for-static-analysis-security--code-quality)
-- [🧪 AI Tools for Test Generation & Coverage](#-ai-tools-for-test-generation--coverage)
-- [📚 AI Tools for Documentation Generation](#-ai-tools-for-documentation-generation)
-- [🗄️ AI Tools for SQL & Database Querying](#️-ai-tools-for-sql--database-querying)
-- [🐞 AI Tools for Debugging & Error Monitoring](#-ai-tools-for-debugging--error-monitoring)
-- [🔌 AI Tools for API Design & Testing](#-ai-tools-for-api-design--testing)
-- [⚙️ AI Tools for DevOps, Infrastructure & Deployment](#️-ai-tools-for-devops-infrastructure--deployment)
-- [✍️ AI Tools for Commit Messages & Git Workflows](#️-ai-tools-for-commit-messages--git-workflows)
+- [🤝 Code Completion & Pair Programming](#-code-completion--pair-programming)
+- [🧠 AI-Native Code Editors & Agentic IDEs](#-ai-native-code-editors--agentic-ides)
+- [🤖 Autonomous Coding Agents](#-autonomous-coding-agents)
+- [🔍 Code Review & Pull Request Automation](#-code-review--pull-request-automation)
+- [🛡️ Static Analysis, Security & Code Quality](#️-static-analysis-security--code-quality)
+- [🧪 Test Generation & Coverage](#-test-generation--coverage)
+- [📚 Documentation Generation](#-documentation-generation)
+- [🗄️ SQL & Database Querying](#️-sql--database-querying)
+- [🐞 Debugging & Error Monitoring](#-debugging--error-monitoring)
+- [🔌 API Design & Testing](#-api-design--testing)
+- [⚙️ DevOps, Infrastructure & Deployment](#️-devops-infrastructure--deployment)
+- [✍️ Commit Messages & Git Workflows](#️-commit-messages--git-workflows)
 - [Sponsors](#sponsors)
 - [Contributing](#contributing)
 - [More directories](#more-directories)
@@ -43,7 +43,7 @@
 
 *Last full review: October 2026.*
 
-## 🤝 AI Tools for Code Completion & Pair Programming
+## 🤝 Code Completion & Pair Programming
 
 *AI pair programmers that autocomplete lines, functions, and whole blocks directly inside your existing editor.*
 
@@ -70,7 +70,7 @@
 </tr>
 </table>
 
-## 🧠 AI Tools for AI-Native Code Editors & Agentic IDEs
+## 🧠 AI-Native Code Editors & Agentic IDEs
 
 *Editors built around an AI agent from the ground up, capable of planning and executing multi-file changes, not just autocompleting a line.*
 
@@ -97,7 +97,7 @@
 </tr>
 </table>
 
-## 🤖 AI Tools for Autonomous Coding Agents
+## 🤖 Autonomous Coding Agents
 
 *Agents that take a task description and work independently in a sandboxed environment, opening a pull request when done instead of waiting on keystroke-by-keystroke input.*
 
@@ -124,7 +124,7 @@
 </tr>
 </table>
 
-## 🔍 AI Tools for Code Review & Pull Request Automation
+## 🔍 Code Review & Pull Request Automation
 
 *AI reviewers that read a diff against the whole codebase and leave inline comments on bugs, security issues, and style before a human ever looks.*
 
@@ -143,7 +143,7 @@
 </tr>
 </table>
 
-## 🛡️ AI Tools for Static Analysis, Security & Code Quality
+## 🛡️ Static Analysis, Security & Code Quality
 
 *Scanners that use AI to cut through noisy static-analysis output and flag the vulnerabilities and quality issues that actually matter in a diff.*
 
@@ -166,7 +166,7 @@
 </tr>
 </table>
 
-## 🧪 AI Tools for Test Generation & Coverage
+## 🧪 Test Generation & Coverage
 
 *Tools that generate unit tests or end-to-end test suites automatically from existing code or user flows, and track how much of the codebase they actually cover.*
 
@@ -189,7 +189,7 @@
 </tr>
 </table>
 
-## 📚 AI Tools for Documentation Generation
+## 📚 Documentation Generation
 
 *AI tools that turn source code, API schemas, and pull requests into documentation and keep it in sync as the code changes.*
 
@@ -208,7 +208,7 @@
 </tr>
 </table>
 
-## 🗄️ AI Tools for SQL & Database Querying
+## 🗄️ SQL & Database Querying
 
 *AI tools that translate natural-language questions into SQL, so developers can query a database without hand-writing every join.*
 
@@ -227,7 +227,7 @@
 </tr>
 </table>
 
-## 🐞 AI Tools for Debugging & Error Monitoring
+## 🐞 Debugging & Error Monitoring
 
 *AI agents that sit on top of error-tracking and observability data to trace a failure back to its root cause instead of leaving you to read the stack trace alone.*
 
@@ -246,7 +246,7 @@
 </tr>
 </table>
 
-## 🔌 AI Tools for API Design & Testing
+## 🔌 API Design & Testing
 
 *AI tools that help design, document, and test APIs — generating requests, test cases, and client SDKs instead of hand-writing every one.*
 
@@ -265,7 +265,7 @@
 </tr>
 </table>
 
-## ⚙️ AI Tools for DevOps, Infrastructure & Deployment
+## ⚙️ DevOps, Infrastructure & Deployment
 
 *AI agents that plan, write, and troubleshoot infrastructure-as-code, CI/CD pipelines, and Kubernetes clusters alongside the humans running them.*
 
@@ -284,7 +284,7 @@
 </tr>
 </table>
 
-## ✍️ AI Tools for Commit Messages & Git Workflows
+## ✍️ Commit Messages & Git Workflows
 
 *AI tools that read a staged diff and write the commit message for you, so "wip" and "fix stuff" don't end up in the permanent history.*
 
