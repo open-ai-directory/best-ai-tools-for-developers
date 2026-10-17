@@ -23,14 +23,18 @@ body:
       label: Category
       description: Which existing category does this belong in? If none fit, open a "Suggest a category" issue instead.
       options:
-        - AI Tools for Code Completion & Pair Programming
-        - AI Tools for AI-Native Code Editors & Agentic IDEs
-        - AI Tools for Autonomous Coding Agents
-        - AI Tools for Code Review & Pull Request Automation
-        - AI Tools for Static Analysis, Security & Code Quality
-        - AI Tools for Test Generation & Coverage
-        - AI Tools for Documentation Generation
-        - AI Tools for SQL & Database Querying
+        - Code Completion & Pair Programming
+        - AI-Native Code Editors & Agentic IDEs
+        - Autonomous Coding Agents
+        - Code Review & Pull Request Automation
+        - Static Analysis, Security & Code Quality
+        - Test Generation & Coverage
+        - Documentation Generation
+        - SQL & Database Querying
+        - Debugging & Error Monitoring
+        - API Design & Testing
+        - DevOps, Infrastructure & Deployment
+        - Commit Messages & Git Workflows
         - Other / not sure
     validations:
       required: true
@@ -42,6 +46,16 @@ body:
       placeholder: "AI-native fork of VS Code with an agentic Composer mode that plans, edits, and runs multi-file changes across a codebase."
     validations:
       required: true
+  - type: input
+    id: icon
+    attributes:
+      label: Icon (optional)
+      description: >-
+        A link to the tool's favicon/logo, or leave blank and we'll grab one from the
+        site's favicon when the PR is made. See CONTRIBUTING.md for the exact file format.
+      placeholder: "https://cursor.com/favicon.ico"
+    validations:
+      required: false
   - type: dropdown
     id: pricing
     attributes:

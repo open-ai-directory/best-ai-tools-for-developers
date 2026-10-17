@@ -7,7 +7,8 @@ body:
     id: category
     attributes:
       label: Proposed category name
-      placeholder: "AI Tools for API Development & Testing"
+      description: A plain workflow name — no need to prefix it with "AI Tools for", the page title already covers that.
+      placeholder: "Database Migrations & Schema Management"
     validations:
       required: true
   - type: textarea

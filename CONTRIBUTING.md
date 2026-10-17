@@ -37,7 +37,7 @@ Rules:
 
 ## Suggesting a new category
 
-Categories are meant to track real developer workflows, not generic tech buckets. [Open a "Suggest a category" issue](../../issues/new/choose) explaining what workflow it covers and why it doesn't fit an existing category.
+Categories are meant to track real developer workflows, not generic tech buckets. Name it as a plain workflow, like the existing ones (`Code Review & Pull Request Automation`, `SQL & Database Querying`) — don't prefix it with "AI Tools for"; the page title already says this is an AI tools directory, so repeating that in every heading only hurts readability. [Open a "Suggest a category" issue](../../issues/new/choose) explaining what workflow it covers and why it doesn't fit an existing category.
 
 ## Reporting a dead link
 

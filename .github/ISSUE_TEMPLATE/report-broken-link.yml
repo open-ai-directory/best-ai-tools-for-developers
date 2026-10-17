@@ -7,7 +7,7 @@ body:
     id: entry
     attributes:
       label: Which entry?
-      placeholder: "Supermaven, under AI Tools for Code Completion & Pair Programming"
+      placeholder: "Supermaven, under Code Completion & Pair Programming"
     validations:
       required: true
   - type: textarea
