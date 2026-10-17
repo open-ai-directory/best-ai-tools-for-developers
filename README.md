@@ -122,6 +122,10 @@
 <td width="48"><img src="assets/icons/openai-codex.png" width="32" height="32" alt="OpenAI Codex icon"></td>
 <td><strong><a href="https://openai.com/codex/">OpenAI Codex</a></strong><br><sub>OpenAI's cloud-based autonomous coding agent that runs multi-step engineering tasks in isolated sandboxes from the CLI, IDE, or ChatGPT. <code>Freemium</code></sub></td>
 </tr>
+<tr>
+<td width="48"><img src="assets/icons/orbi.png" width="32" height="32" alt="Orbi icon"></td>
+<td><strong><a href="https://orbi.build/?ref=oss-best-ai-tools-for-developers">Orbi</a></strong><br><sub>GitHub App that picks up Issues labeled ai-ready, codes in a hosted sandbox, has a separate review session check the PR, then merges and tags a release. <code>Freemium</code></sub></td>
+</tr>
 </table>
 
 ## 🔍 Code Review & Pull Request Automation
@@ -171,6 +175,10 @@
 *Tools that generate unit tests or end-to-end test suites automatically from existing code or user flows, and track how much of the codebase they actually cover.*
 
 <table>
+<tr>
+<td width="48"><img src="assets/icons/agent-qa.png" width="32" height="32" alt="Agent QA icon"></td>
+<td><strong><a href="https://github.com/vostride/agent-qa">Agent QA</a></strong><br><sub>Natural-language web/mobile tests via CLI and MCP; source-available (FSL-1.1-ALv2), no software fee for permitted use, provider costs separate. <code>Free</code></sub></td>
+</tr>
 <tr>
 <td width="48"><img src="assets/icons/diffblue-cover.png" width="32" height="32" alt="Diffblue Cover icon"></td>
 <td><strong><a href="https://www.diffblue.com/">Diffblue Cover</a></strong><br><sub>AI agent that writes and maintains Java and Kotlin unit tests automatically, with a free Community Edition for individual developers. <code>Freemium</code></sub></td>
@@ -322,7 +330,7 @@
 Eight repos live so far — more industries are launching soon under [@open-ai-directory](https://github.com/open-ai-directory):
 
 | | | |
-|---|---|---|
+| --- | --- | --- |
 | [🏥 Healthcare](https://github.com/open-ai-directory/best-ai-tools-for-healthcare) | [⚖️ Lawyers](https://github.com/open-ai-directory/best-ai-tools-for-lawyers) | [📈 Marketing](https://github.com/open-ai-directory/best-ai-tools-for-marketing) |
 | [💰 Finance](https://github.com/open-ai-directory/best-ai-tools-for-finance) | [🎓 Teachers](https://github.com/open-ai-directory/best-ai-tools-for-teachers) | [👥 HR](https://github.com/open-ai-directory/best-ai-tools-for-hr) |
 | [🎨 Designers](https://github.com/open-ai-directory/best-ai-tools-for-designers) | | |
