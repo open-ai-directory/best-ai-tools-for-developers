@@ -126,6 +126,10 @@
 <td width="48"><img src="assets/icons/orbi.png" width="32" height="32" alt="Orbi icon"></td>
 <td><strong><a href="https://orbi.build/?ref=oss-best-ai-tools-for-developers">Orbi</a></strong><br><sub>GitHub App that picks up Issues labeled ai-ready, codes in a hosted sandbox, has a separate review session check the PR, then merges and tags a release. <code>Freemium</code></sub></td>
 </tr>
+<tr>
+<td width="48"><img src="assets/icons/orkas.png" width="32" height="32" alt="Orkas icon"></td>
+<td><strong><a href="https://orkas.ai/?source=gh_open_ai_dev">Orkas</a></strong><br><sub>Desktop AI workspace coordinating coding specialists and local CLI agents with reusable project context; free core, provider costs may apply. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
 </table>
 
 ## 🔍 Code Review & Pull Request Automation
