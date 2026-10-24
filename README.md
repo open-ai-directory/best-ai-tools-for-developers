@@ -283,6 +283,10 @@
 
 <table>
 <tr>
+<td width="48"><img src="assets/icons/deed-page.png" width="32" height="32" alt="deed.page icon"></td>
+<td><strong><a href="https://deed.page">deed.page</a></strong><br><sub>Static hosting that coding agents deploy to: publish an HTML file or folder with one HTTP PUT or the remote MCP server, get a public HTTPS link. <code>Freemium</code></sub></td>
+</tr>
+<tr>
 <td width="48"><img src="assets/icons/harness.png" width="32" height="32" alt="Harness icon"></td>
 <td><strong><a href="https://www.harness.io/pricing">Harness</a></strong><br><sub>AI DevOps platform whose AIDA assistant helps build and troubleshoot CI/CD pipelines, feature flags, and cloud cost workflows. <code>Freemium</code></sub></td>
 </tr>
