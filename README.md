@@ -119,6 +119,10 @@
 <td><strong><a href="https://jules.google/">Google Jules</a></strong><br><sub>Google's asynchronous coding agent that clones a repo into a sandboxed cloud VM, implements a task, and opens a pull request for review. <code>Freemium</code></sub></td>
 </tr>
 <tr>
+<td width="48"><img src="assets/icons/imagera-code.png" width="32" height="32" alt="Imagera Code icon"></td>
+<td><strong><a href="https://imagera.ai/code">Imagera Code</a></strong><br><sub>Terminal coding agent that reads a project, edits files, runs tests and shows the diff, on 276 coding models with one weekly limit. <code>Paid</code></sub></td>
+</tr>
+<tr>
 <td width="48"><img src="assets/icons/openai-codex.png" width="32" height="32" alt="OpenAI Codex icon"></td>
 <td><strong><a href="https://openai.com/codex/">OpenAI Codex</a></strong><br><sub>OpenAI's cloud-based autonomous coding agent that runs multi-step engineering tasks in isolated sandboxes from the CLI, IDE, or ChatGPT. <code>Freemium</code></sub></td>
 </tr>
